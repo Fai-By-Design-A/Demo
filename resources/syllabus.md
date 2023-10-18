@@ -36,9 +36,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 - choose a Time Zone for the hours to be set
 
 ## Location
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+- online
 
 ## Training Description
 - what is the main goal/purpose of this training
